@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`next-minimal-starter`](https://github.com/prismicio-community/next-minimal-starter).
 
-To create a new Next.js with this starter, run the following commands:
+To create a new Next.js project with this starter, run the following commands:
 
 ```sh
 # Replace my-new-project with a folder name that will be created.
