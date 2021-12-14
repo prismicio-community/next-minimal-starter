@@ -3,11 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`next-minima
 To create a new Next.js project with this starter, run the following commands:
 
 ```sh
-# Replace `my-new-project` with a folder name that will be created.
-
-npx degit@latest prismicio-community/next-minimal-starter my-new-project
-cd my-new-project
-npm install
+npx create-next-app@latest -e https://github.com/prismicio-community/next-minimal-starter
 ```
 
 ## Getting Started
